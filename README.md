@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Measures-yellow) ![Live](https://img.shields.io/badge/Dashboard-Live-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-![Meta Ad Performance Dashboard](screenshots/Facebook_dashboard.png)
+![Meta Ad Performance Dashboard](screenshots/Facebook%20dashboard.png)
 
 🔗 **[Explore the Live Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZjAxMTA1NjQtNGM5NC00ZTdjLWJmNjQtN2ZjYWQ3ZTkyOTFlIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D)**
 
@@ -33,10 +33,10 @@ A marketing team running ads across **Facebook** and **Instagram** needs one pla
 ## 📊 Dashboard Gallery
 
 ### Facebook
-![Facebook Dashboard](screenshots/Facebook_dashboard.png)
+![Facebook Dashboard](screenshots/Facebook%20dashboard.png)
 
 ### Instagram
-![Instagram Dashboard](screenshots/Instagram_dashboard.png)
+![Instagram Dashboard](screenshots/Instagram%20dashboard.png)
 
 👉 **[Open the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAxMTA1NjQtNGM5NC00ZTdjLWJmNjQtN2ZjYWQ3ZTkyOTFlIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D)** and switch between Facebook/Instagram pages, change the Dynamic Measures slicer, or filter by month yourself.
 
@@ -65,7 +65,7 @@ Click the [live dashboard link](https://app.powerbi.com/view?r=eyJrIjoiZjAxMTA1N
 ```bash
 git clone https://github.com/Deepa5270/meta-ad-performance-dashboard.git
 ```
-Open `meta_dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free) to inspect the data model, Power Query steps, and DAX measures directly.
+Open `meta dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free) to inspect the data model, Power Query steps, and DAX measures directly.
 
 ---
 
@@ -104,5 +104,3 @@ See [`dax_measures.md`](dax_measures.md) for the full list of formulas with expl
 ## 📄 License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
-
